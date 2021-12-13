@@ -31,7 +31,7 @@ Log4j impact on manufacturers and components summary from the Internet community
 | [ghidra](pages/ghidra.md)                |       | TRUE     |
 | [ghidra server](pages/ghidraServer.md)   |       | TRUE     |
 | [Minecraft](pages/Minecraft.md)          |       | TRUE     |
-| [PulseSecure](pages/PulseSecure.md)      |       | TRUE     |
+| [PulseSecure](pages/PulseSecure.md)      |       | FALSE     |
 | [UniFi](pages/UniFi.md)                  |       | TRUE     |
 | [VMWare](pages/VMWare.md)                |       | TRUE     |
 | [Blender](pages/Blender.md)              |       | TRUE     |
